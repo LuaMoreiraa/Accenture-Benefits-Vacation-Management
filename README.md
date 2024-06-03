@@ -52,6 +52,7 @@ Julio Cesar Alves de Melo   (Desenvolvedor Front-End)
 
 ##Links Importantes:
 Apresentação do projeto: https://www.canva.com/design/DAGG65BLf_A/0yAGL8KMnuJGJCFtbt1xAw/edit?utm_content=DAGG65BLf_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Prototipo Navegavel: https://www.figma.com/design/UNzxpv9L8DKWu2OEsQmxNT/RESIDENCIA-2-PERIODO?node-id=0-1&t=bTIlCYf8qyigiHQN-1
 
 @2024 Squad 04, Residencia 2024.1

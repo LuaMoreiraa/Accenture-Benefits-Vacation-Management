@@ -19,21 +19,9 @@ a capacidade de solicitar outros benefícios como vale-transporte, vale-refeiç�
 contra-cheque. Gestores terão um painel para aprovar ou negar solicitações considerando disponibilidade de 
 equipe e distribuição equilibrada das férias, bem como aprovar outros benefícios.
 
-## 3. Personas
+## 3. Planejamento de Desenvolvimento
 
-### 3.1. Isabela Garcia, Diretora de Recursos Humanos
-Isabela é responsável por garantir o bem-estar e a satisfação dos funcionários da Accenture. Ela precisa 
-de um sistema que facilite o gerenciamento das solicitações de férias, bem como dos outros benefícios 
-oferecidos pela empresa.
-
-### 3.2. Marcelo Costa, Consultor SAP
-Marcelo é um consultor dedicado e comprometido com seus projetos. Ele deseja um sistema que simplifique 
-o processo de solicitação de férias e outros benefícios, proporcionando uma experiência mais eficiente 
-e conveniente.
-
-## 4. Planejamento de Desenvolvimento
-
-### 4.1. Backlog do Produto PRIORIZADO com o Cliente
+### 3.1. Backlog do Produto PRIORIZADO com o Cliente
 
 - **Implementação do Sistema de Solicitação de Férias**: Desenvolvimento do sistema online para permitir 
 que os funcionários solicitem suas férias de forma eficiente. (Alta prioridade)
@@ -44,9 +32,9 @@ possam solicitar o vale refeição/alimentação. (Média prioridade)
 - **Puxar Contra-Cheque**: Desenvolvimento da funcionalidade para que os funcionários possam acessar e 
 baixar seus contra-cheques. (Média prioridade)
 
-## 5. Especificação Técnica
+## 4. Especificação Técnica
 
-### 5.1. Stack de Desenvolvimento
+### 4.1. Stack de Desenvolvimento
 
 Para o desenvolvimento deste projeto, utilizaremos as seguintes tecnologias:
   Linguagem de Programação: JavaScript
@@ -55,7 +43,7 @@ Para o desenvolvimento deste projeto, utilizaremos as seguintes tecnologias:
   Controle de Versão: Git
   Prototipagem: Figma;
 
-## 6. Equipe de Desenvolvimento
+## 5. Equipe de Desenvolvimento
 Luana Gabriella Silva Moreira (Desenvolvedora  Front-End e UX/Ui Design)
 Kathyllin de Oliveira Bandeira (Desenvolvedora Front-End)
 Joice Miguel da Silva  (Desenvolvedora Front-End)

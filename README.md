@@ -38,10 +38,9 @@ baixar seus contra-cheques. (Média prioridade)
 
 Para o desenvolvimento deste projeto, utilizaremos as seguintes tecnologias:
   Linguagem de Programação: JavaScript
-  Framework Web: React.Js
   Front-end: HTML, CSS (com Bootstrap)
   Controle de Versão: Git
-  Prototipagem: Figma;
+  Prototipagem: Figma  (https://www.figma.com/design/UNzxpv9L8DKWu2OEsQmxNT/RESIDENCIA-2-PERIODO?node-id=0-1&t=bTIlCYf8qyigiHQN-1);
 
 ## 5. Equipe de Desenvolvimento
 Luana Gabriella Silva Moreira (Desenvolvedora  Front-End e UX/Ui Design)
